@@ -29,7 +29,7 @@ The project we publish is represented by the contents of the `/dist/`
 folder. Everything else in this repository is used to author the project.
 
 Think of it this way, in the same way that you don't clone [vuejs/core](https://github.com/vuejs/core)
-to create a Vue.js app, you don't need to clone this repository to start a new
+to create a Vue.js app, you don't need to clone this repository to start a new jiufudf
 site or app based on HTML5 Boilerplate.
 
 So, if you're looking for a quick start template to build a web site or
